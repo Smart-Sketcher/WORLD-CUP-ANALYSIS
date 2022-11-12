@@ -1,6 +1,6 @@
 # WORLD-CUP-ANALYSIS
 # INTRODUCTION
-* Historical data of world cup from 1930 to 2018, cluding all the matches from the previous world cups, all countries that won the world cups, all the goals scored in each world cup. 
+* Historical data of world cup from 1930 to 2018, including all the matches from the previous world cups, all countries that won the world cups, all the goals scored in each world cup. 
 # OBJECTIVES
 * to analyse the historocal background of the world cup since 1930.
 # ANALYTICAL QUESTIONS
